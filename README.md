@@ -8,5 +8,5 @@ git clone https://github.com/MainShayne233/hello_opencv.git
 cd hello_opencv
 cmake .
 make
-./DisplayImage <path_to_image>
+./HelloOpencv <path_to_image>
 ```
